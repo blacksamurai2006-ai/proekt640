@@ -1,2 +1,2 @@
-import proekt640fio
-proekt640fio.funk640FIO(0)
+import proekt640Mukumniyazov
+proekt640Mukumniyazov.funk640Mukumniyazov(0)
